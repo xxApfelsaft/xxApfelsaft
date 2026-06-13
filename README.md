@@ -84,7 +84,6 @@ I am a 15y/o from Germany that started coding with Tutorials in 2020.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pyenxx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="pyenxx's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyenxx&layout=compact&theme=tokyonight" alt="pyenxx's Top Languages" width="48%" />
 </p>
 
 ---
