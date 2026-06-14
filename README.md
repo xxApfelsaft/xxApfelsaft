@@ -44,7 +44,7 @@ I am a 15y/o from Germany that started coding with Tutorials in 2020.
   </tr>
 </table>
 
-####  Tools, IDEs & DevOps
+####  Tools & IDEs
 <table>
   <tr>
     <td align="center" width="96">
@@ -78,15 +78,6 @@ I am a 15y/o from Germany that started coding with Tutorials in 2020.
   </tr>
 </table>
 
----
-
-###  GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyenxx&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="pyenxx's GitHub Stats" width="48%" />
-</p>
-
----
 
 ###  Connect with Me
 
