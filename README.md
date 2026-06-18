@@ -14,7 +14,7 @@ I am a 15y/o from Germany that started coding with Tutorials in 2020.
 
 ###  My Tech Stack
 
-####  Languages
+####  Languages that i use to code stuff
 <table>
   <tr>
     <td align="center" width="96">
