@@ -7,8 +7,7 @@
 ###  About Me
 I am a 15y/o from Germany that started coding with Tutorials in 2020.
 
--  I’m currently working on **PxrlyJuice Network** (Minecraft Server Network)
--  Fun Fact: I get called a larp almost daily, despite the fact that I've been learning coding and network security for years and don't talk shit about stuff I don't know
+-  I’m currently working on **Nothing i guess** (rip PxrlyJuice Network)
 
 ---
 
