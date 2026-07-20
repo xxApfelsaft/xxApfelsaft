@@ -7,7 +7,7 @@
 ###  About Me
 I am a 16y/o from Germany that started coding with Tutorials in 2020.
 
--  I’m currently working on **Nothing i guess** (rip PxrlyJuice Network)
+-  I’m currently working for **CherrySMP** (rip PxrlyJuice Network)
 
 ---
 
