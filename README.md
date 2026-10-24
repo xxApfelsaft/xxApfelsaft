@@ -2,7 +2,7 @@
 
 
 ###  About Me
-- 16 y/o german started in 2020 to learn java with yt tutorials because i was bored
+- 16 y/o german started to learn java with yt tutorials in 2020 because i was bored
 - I would describe myself as a semi bad developer that just has too much time
 ---
 
