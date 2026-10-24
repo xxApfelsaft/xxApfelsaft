@@ -1,14 +1,9 @@
 # Hi there, I'm xxApfelsaft! 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pyenxx&color=9ece6a&style=flat-square" alt="Profile Views" />
-</p>
 
 ###  About Me
-16 y/o german started in 2020 to learn java with yt tutorials because i was bored.
-
--  I’m currently working for **CherrySMP**
-
+- 16 y/o german started in 2020 to learn java with yt tutorials because i was bored
+- I would describe myself as a semi bad developer that just has too much time
 ---
 
 ###  My Tech Stack
@@ -81,6 +76,15 @@
   </tr>
 </table>
 
+---
+
+### GitHub Stats & Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxApfelsaft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ###  Connect with Me
 
