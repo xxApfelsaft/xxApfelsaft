@@ -1,5 +1,6 @@
-# Hi there, I'm xxApfelsaft! 👋
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=200&section=header&text=Hi%20there,%20I'm%20xxApfelsaft!%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+</div>
 
 ###  About Me
 - 16 y/o german started to learn java with yt tutorials in 2020 because i was bored
@@ -91,4 +92,9 @@
 <a href="https://discord.com/users/769226732423086110">
   <img src="https://lanyard.cnrad.dev/api/769226732423086110?theme=dark&bg=1a1b26&title=Coding%20Status" alt="Discord Status" />
 </a>
-</p>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=110&section=footer" width="100%" alt="Footer Wave" />
+</div>
