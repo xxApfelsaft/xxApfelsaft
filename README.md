@@ -87,7 +87,7 @@
 
 ---
 
-###  Connect with Me
+###  Discord Activity
 
 <a href="https://discord.com/users/769226732423086110">
   <img src="https://lanyard.cnrad.dev/api/769226732423086110?theme=dark&bg=1a1b26&title=Coding%20Status" alt="Discord Status" />
