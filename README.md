@@ -89,7 +89,7 @@
 
 ###  Discord Activity
 
-[![ichschalteaus's Discord status](https://dsc-readme.tsuni.dev/api/user/769226732423086110?banner=https%3A%2F%2Fshare.purely.wtf%2Fu%2FtynQCT.jpg&theme=nitroLight&primaryColor=DC8ADD&accentColor=FFFFFF&width=512&font=sakura&effect=gradient&nameColor1=DC8ADD&nameColor2=D49CCE)](https://discord.com/users/769226732423086110))
+[![ichschalteaus's Discord status](https://dsc-readme.tsuni.dev/api/user/769226732423086110?banner=https%3A%2F%2Fshare.purely.wtf%2Fu%2FtynQCT.jpg&theme=nitroLight&primaryColor=DC8ADD&accentColor=FFFFFF&width=512&font=sakura&effect=gradient&nameColor1=DC8ADD&nameColor2=D49CCE)](https://discord.com/users/769226732423086110)
 
 <br><br>
 
